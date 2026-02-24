@@ -1351,3 +1351,4 @@
 /mnt/pre_reboot_dexopt                                            pre_reboot_dexopt_file
 
 /second_stage_resources/overlay_remounter                         overlay_remounter_exec
+/sys/kernel/fps_listener/rate                                     sysfs_fps_listener

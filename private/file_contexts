@@ -959,3 +959,6 @@
 #############################
 # For overlays
 /second_stage_resources/overlay_remounter u:object_r:overlay_remounter_exec:s0
+
+#############################
+/sys/kernel/fps_listener/rate    u:object_r:sysfs_fps_listener:s0

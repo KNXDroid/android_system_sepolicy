@@ -272,4 +272,6 @@ until_board_api(202504, `
     type sysfs_mem_sleep, fs_type, sysfs_type;
 ')
 
+type sysfs_fps_listener, fs_type, sysfs_type;
+
 ## END Types added in 202504 in public/file.te
